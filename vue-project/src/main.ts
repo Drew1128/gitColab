@@ -4,6 +4,8 @@ import { createPinia, PiniaVuePlugin } from 'pinia'
 import App from './App.vue'
 import router from './router'
 
+// First commit of the project
+
 import './assets/main.css'
 
 Vue.use(PiniaVuePlugin)
